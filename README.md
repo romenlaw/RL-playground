@@ -1,2 +1,4 @@
 # RL-playground
-Reinforcement Learning Playground
+Reinforcement Learning Playground.
+Files:
+* rl_playground.ipynb - notes of reading MEAB book.
